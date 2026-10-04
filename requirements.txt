@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+ufl-legacy
+git+https://github.com/NicolaRFranco/dlroms.git
